@@ -1,5 +1,5 @@
 
-# 👁️ Simple Face Detection using Haar Cascade
+# 👁️ Face Detection using Haar Cascade
 
 This is a simple Python script that performs face detection in real-time using OpenCV and Haar Cascade Classifier.
 
